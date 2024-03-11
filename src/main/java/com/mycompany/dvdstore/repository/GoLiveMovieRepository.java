@@ -1,10 +1,8 @@
-package com.mycompany.dvdstor.repository;
+package com.mycompany.dvdstore.repository;
 
-import com.mycompany.dvdstor.entity.Movie;
+import com.mycompany.dvdstore.entity.Movie;
 
 import java.io.FileWriter;
-import java.util.ArrayList;
-import java.util.List;
 import java.io.IOException;
 
 public class GoLiveMovieRepository {

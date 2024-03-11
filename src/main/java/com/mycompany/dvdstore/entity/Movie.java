@@ -1,4 +1,4 @@
-package com.mycompany.dvdstor.entity;
+package com.mycompany.dvdstore.entity;
 
 public class Movie {
 

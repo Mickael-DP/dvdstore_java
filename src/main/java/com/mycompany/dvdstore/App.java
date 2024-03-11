@@ -1,6 +1,6 @@
-package com.mycompany.dvdstor;
+package com.mycompany.dvdstore;
 
-import com.mycompany.dvdstor.controller.MovieController;
+import com.mycompany.dvdstore.controller.MovieController;
 
 
 /**
